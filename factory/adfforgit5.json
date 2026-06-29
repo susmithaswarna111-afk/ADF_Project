@@ -1,0 +1,15 @@
+{
+	"name": "adfforgit5",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aab4b0b0-da09-4d96-bab4-3a5edb7ef807",
+		"tenantId": "0ebe3e21-7c97-4835-9052-72491f6a7633"
+	}
+}
